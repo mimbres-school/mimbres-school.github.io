@@ -11,20 +11,8 @@
 {: style="font-size: 1.2em; text-align: center;"}
 -->
 
-Mimbres is a new school.
-
-It's the humanities
-- without disciplinary boundaries
-- with primary sources
-- without fear of asking hard questions 
-- with a long view
-
-An anti-university. 
-
-Subscribe on [patreon](https://www.patreon.com/MimbresSchool) for access to the course materials, recordings, and
-discord link!
-
-
+[Subscribe][] • [About][] • [Getting Started][] • [Past Courses][] 
+{: style="font-size: 1.2em; text-align: center;"}
 -----
 
 *Are you feeling intellectually under-stimulated? Do you crave high-level,
@@ -38,19 +26,25 @@ intolerable at parties than you already were ...*
 
 -----
 
+Mimbres is a new school.
 
-The mimbres curriculum is working in a very specific lineage that is probably at
-some fundamental level “nietzschean”
+It's the humanities:
+- without disciplinary boundaries
+- with primary sources
+- without fear of asking hard questions 
+- with a long view
 
------
+An anti-university. 
 
-Stay calm and study the rocks!
-
-
-### Past Courses
-
+Subscribe on [patreon][Subscribe] for access to the course materials, recordings, and
+discord link!
 
 
 
 <!-- LINKS -->
+
+[Subscribe]: https://www.patreon.com/MimbresSchool
+[About]: ./about.html
+[Getting Started]: ./getting_started.html
+[Past Courses]: ./past_courses.html
 
