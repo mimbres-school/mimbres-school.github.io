@@ -2,3 +2,8 @@ theme: jekyll-theme-minimal
 title: Mimbres School
 description: Mimbres School
 show_downloads: "true"
+
+
+plugins:
+    - jekyll-gist
+
