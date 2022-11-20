@@ -1,0 +1,10 @@
+theme: jekyll-theme-minimal
+title: CoFi
+description: The Collaborative Finance side of Cosmos
+show_downloads: "true"
+
+# Fix the download links
+# TODO Automate generation of these to point to latest release
+github:
+  zip_url: https://github.com/informalsystems/cofi/releases/latest/download/cofi.zip
+  tar_url: https://github.com/informalsystems/cofi/releases/latest/download/cofi.tgz
